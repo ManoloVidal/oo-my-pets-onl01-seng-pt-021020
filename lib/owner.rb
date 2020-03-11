@@ -44,6 +44,9 @@ class Owner
   def buy_dog(the_dogs_name)
     Dog.new(the_dogs_name, self)
   end
+  
+  def walk_dogs
+    
     
    
 end
